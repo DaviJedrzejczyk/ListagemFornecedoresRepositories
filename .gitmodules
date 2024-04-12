@@ -1,0 +1,6 @@
+[submodule "ListagemFrontEnd"]
+	path = ListagemFrontEnd
+	url = https://github.com/DaviJedrzejczyk/ListaFornecedorEmpresa-FrontEnd
+[submodule "ListagemBackEnd"]
+	path = ListagemBackEnd
+	url = https://github.com/DaviJedrzejczyk/ListaFornecedorEmpresa-FrontEnd
